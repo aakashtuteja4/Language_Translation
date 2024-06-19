@@ -1,0 +1,8 @@
+datasets
+transformers
+sentencepiece
+sacrebleu
+evaluate
+accelerate
+gradio 
+kaleido cohere  openai tiktoken typing-extensions==4.5.0
